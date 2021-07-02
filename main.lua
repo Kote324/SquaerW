@@ -97,7 +97,7 @@ DropShadow_2.BorderSizePixel = 0
 DropShadow_2.Position = UDim2.new(0.5, 0, 0.5, 1)
 DropShadow_2.Size = UDim2.new(1, 18, 1, 18)
 DropShadow_2.ZIndex = 2
-DropShadow_2.Image = "rbxassetid://1316045217"
+DropShadow_2.Image = "rbxasset://textures/SpawnLocation.png"
 DropShadow_2.ImageColor3 = Color3.fromRGB(0, 0, 0)
 DropShadow_2.ImageTransparency = 0.700
 DropShadow_2.ScaleType = Enum.ScaleType.Slice
@@ -109,7 +109,7 @@ DuckLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 DuckLogo.BackgroundTransparency = 1.000
 DuckLogo.Position = UDim2.new(0.359375, 0, 0.0249999985, 0)
 DuckLogo.Size = UDim2.new(0, 90, 0, 90)
-DuckLogo.Image = "rbxassetid://5552873993"
+DuckLogo.Image = "rbxasset://textures/SpawnLocation.png"
 
 DuckText.Name = "DuckText"
 DuckText.Parent = DuckLogo
